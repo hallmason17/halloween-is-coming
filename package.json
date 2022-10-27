@@ -1,0 +1,21 @@
+{
+  "name": "halloween-is-coming",
+  "displayName": "halloween-is-coming",
+  "description": "high contrast dark theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Halloween Is Coming (Dark High Contrast)",
+        "uiTheme": "hc-black",
+        "path": "./themes/Halloween Is Coming (Dark High Contrast)-color-theme.json"
+      }
+    ]
+  }
+}
