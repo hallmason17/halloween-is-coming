@@ -1,7 +1,7 @@
 {
   "name": "halloween-is-coming",
   "displayName": "halloween-is-coming",
-  "description": "high contrast dark theme for vscode",
+  "description": "high contrast dark theme for vscode. slight alteration of synthwave '84.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
