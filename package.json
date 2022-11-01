@@ -1,7 +1,7 @@
 {
   "name": "halloween-is-coming",
   "displayName": "halloween-is-coming",
-  "description": "high contrast dark theme for vscode. slight alteration of synthwave '84.",
+  "description": "dark theme for vscode. slight alteration of synthwave '84.",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
@@ -18,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Halloween Is Coming (Dark High Contrast)",
-        "uiTheme": "hc-black",
-        "path": "./themes/Halloween Is Coming (Dark High Contrast)-color-theme.json"
+        "label": "Halloween Is Coming (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Halloween Is Coming (Dark)-color-theme.json"
       }
     ]
   }
